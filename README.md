@@ -8,12 +8,11 @@
 <p align="left"> 
  <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
  <img src="https://img.shields.io/badge/Text%20Editor-Intellij%20Idea-red?&logo=intellij%20idea&logoColor=red" />
- <img src="https://img.shields.io/badge/Text%20Editor-Rider-red?&logo=rider&logoColor=red" />
 <!--  <img src="https://img.shields.io/badge/Text%20Editor-Xcode-blue?&logo=Xcode&logoColor=blue" /> -->
 <!--  <img src="https://img.shields.io/badge/Text%20Editor-Android%20Studio-green?&logo=Android-Studio&logoColor=green" /> -->
 </p>
 
- - 🌱 I’m currently learning **.Net**
+ - 🌱 I’m currently learning **Elixir**
  
 
 <br/>
